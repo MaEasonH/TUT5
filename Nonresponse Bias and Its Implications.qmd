@@ -4,7 +4,7 @@ subtitle: "A look for the way leading to skewed or inaccurate survey estimates w
 author: 
   - HengMa
 thanks: "Code and data are available at: https://github.com/MaEasonH/TUT5"
-date: "`r format(Sys.time(), '%d %B %Y')`"
+date: "06 February 2024"
 abstract: "Nonresponse bias occurs when the responses collected are not representative of the population intended to be analyzed, leading to skewed or inaccurate survey estimates. The concern is that as response rates decline, the potential for nonresponse bias increases, potentially compromising the quality of survey-based research findings [@Nonresponse_Rates]. However, the relationship between response rates and nonresponse bias is complex and not always direct. Groves  and Peytcheva and Groves have shown that low response rates do not necessarily equate to high nonresponse bias, as the bias depends more on the degree of difference between respondents and nonrespondents regarding the main survey variables than on the response rate itself."
 
 format: pdf
